@@ -33,7 +33,8 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![preview_desktop](https://github.com/Jaiboon26/responsive_recipe_page/assets/133299258/47657537-cbff-4a9a-a765-76f6614e8fe5)
+![preview_mobile](https://github.com/Jaiboon26/responsive_recipe_page/assets/133299258/79801346-fe46-4ead-b741-fc5df9b1c490)
 
 ## Contact
 
